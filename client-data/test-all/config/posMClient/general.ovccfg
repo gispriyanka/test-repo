@@ -1,0 +1,10 @@
+{
+  "useIOSNativeKeyboard": false,
+  "useAndroidNativeKeyboard": true,
+  "useWindowsNativeKeyboard": true,
+  
+  "tillDriver": "employee", 
+  "promptForTill": true,
+  
+  "promptForLoyalty": false    
+}

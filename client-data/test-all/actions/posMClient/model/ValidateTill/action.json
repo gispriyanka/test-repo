@@ -1,0 +1,9 @@
+{
+    "id": "posMClient/model/ValidateTill.ovcact",
+    "inputParams": {"till": {"type": "string"}},
+    "outputParams": {"switchId": {"type": "string"}},
+    "switches": [
+        "valid",
+        "invalid"
+    ]
+}

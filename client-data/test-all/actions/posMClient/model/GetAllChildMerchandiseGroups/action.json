@@ -1,0 +1,6 @@
+{
+    "id": "posMClient/model/GetAllChildMerchandiseGroups.ovcact",
+    "inputParams": {"groupIds": {"type": "object"}},
+    "outputParams": {"resultSet": {"type": "object"}},
+    "switches": []
+}

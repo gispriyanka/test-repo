@@ -1,0 +1,1 @@
+return { resultSet : inputParams.resultSet };

@@ -1,0 +1,47 @@
+<object-locations>
+  <pages>
+  </pages>
+
+  <images>
+  </images>
+
+  <css>
+  </css>
+
+  <js>
+  </js>
+
+  <menus>
+  </menus>
+
+  <processes>
+    <file folder="test-all" name="posMClient/GetAllChildMerchandiseGroupsRecursively" location="test-all" />
+  </processes>
+
+  <actions>
+    <file folder="test-all" name="posMClient/model/ValidateTill" location="test-all" />
+    <file folder="test-all" name="posMClient/model/GetAllChildMerchandiseGroups" location="test-all" />
+  </actions>
+
+  <templates>
+  </templates>
+
+  <resources>
+  </resources>
+
+  <config>
+    <file folder="test-all" name="posMClient/thirdPartyPOSIntegration.ovccfg" location="test-all" />
+    </config>
+
+  <sql>
+  </sql>
+
+  <gateways>
+  </gateways>
+
+  <listeners>
+  </listeners>
+
+   <htmlTemplates>
+  </htmlTemplates>
+</object-locations>
