@@ -15,12 +15,9 @@
   </menus>
 
   <processes>
-    <file folder="test-all" name="posMClient/GetAllChildMerchandiseGroupsRecursively" location="test-all" />
   </processes>
 
   <actions>
-    <file folder="test-all" name="posMClient/model/ValidateTill" location="test-all" />
-    <file folder="test-all" name="posMClient/model/GetAllChildMerchandiseGroups" location="test-all" />
   </actions>
 
   <templates>
@@ -30,8 +27,7 @@
   </resources>
 
   <config>
-    <file folder="test-all" name="posMClient/general.ovccfg" location="test-all" />
-    </config>
+  </config>
 
   <sql>
   </sql>
