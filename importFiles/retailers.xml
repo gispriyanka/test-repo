@@ -1,0 +1,20 @@
+<Retailers locationId="test-all">
+	<Retailer id="showcase-qa">
+		<Name>OVC Showcase QA Retailer</Name>
+		<BaseCommerceServer>http://electronics.showcaseqa.mybasket.com:9001</BaseCommerceServer>
+		<ProductQueryEndpoint>extovc/ovcProductQuery.html</ProductQueryEndpoint>
+		<PingSiteEndpoint>yacceleratorstorefront</PingSiteEndpoint>
+	</Retailer>
+	<Retailer id="showcase-dev">
+		<Name>OVC Showcase DEV Retailer</Name>
+		<BaseCommerceServer>http://electronics.showcasedev.mybasket.com:9001</BaseCommerceServer>
+		<ProductQueryEndpoint>extovc/ovcProductQuery.html</ProductQueryEndpoint>
+		<PingSiteEndpoint>yacceleratorstorefront</PingSiteEndpoint>
+	</Retailer>
+	<Retailer id="local">
+		<Name>OVC LOCAL Retailer</Name>
+		<BaseCommerceServer>http://ovc.local:9001</BaseCommerceServer>
+		<ProductQueryEndpoint>extovc/ovcProductQuery.html</ProductQueryEndpoint>
+		<PingSiteEndpoint>yacceleratorstorefront</PingSiteEndpoint>
+	</Retailer>
+</Retailers>
