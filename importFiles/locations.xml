@@ -14,7 +14,7 @@
   <!-- Location id="ovc-store">
     <Type>Store</Type>
     <Name>OVC Store</Name>
-    <ParentId>nrf-all</ParentId>
+    <ParentId>test-all</ParentId>
     <IsDeleted>0</IsDeleted>
   </Location -->
 </Locations>
