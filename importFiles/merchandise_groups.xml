@@ -1,5 +1,5 @@
 <MerchandiseGroups locationId="OvcStore">
-  <Group type="1" id="000-000-000-000">
+  <!-- Group type="1" id="000-000-000-000">
     <Name>ROOT</Name>
     <Parent/>
   </Group>
@@ -12,5 +12,5 @@
   <Group type="1" id="200-000-000-000">
     <Name>Non-Merchandising</Name>
     <Parent>000-000-000-000</Parent>
-  </Group>
+  </Group -->
 </MerchandiseGroups>
