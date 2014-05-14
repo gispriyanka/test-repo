@@ -29,9 +29,9 @@
   <TenderType id="25">
     <Desc>Coupon</Desc>
     <FundCode>CP</FundCode>
-    <ChargeLimit>30</ChargeLimit>
-    <ChangeLimit>0</ChangeLimit>
-    <RefundLimit>0</RefundLimit>
+    <ChargeLimit>1000</ChargeLimit>
+    <ChangeLimit>1000</ChangeLimit>
+    <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
   </TenderType>
   <TenderType id="29">
