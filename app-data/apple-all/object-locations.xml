@@ -1,0 +1,43 @@
+<object-locations>
+  <pages>
+  </pages>
+
+  <images>
+  </images>
+
+  <css>
+  </css>
+
+  <js>
+  </js>
+
+  <menus>
+  </menus>
+
+  <processes>
+  </processes>
+
+  <actions>
+  </actions>
+
+  <templates>
+  </templates>
+
+  <resources>
+  </resources>
+
+  <config>
+  </config>
+
+  <sql>
+  </sql>
+
+  <gateways>
+  </gateways>
+
+  <listeners>
+  </listeners>
+
+   <htmlTemplates>
+  </htmlTemplates>
+</object-locations>
