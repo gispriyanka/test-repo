@@ -5,7 +5,7 @@
   <TenderType id="26">
     <Desc>AMEX</Desc>
     <FundCode>AX</FundCode>
-    <ChargeLimit>20</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>0</ChangeLimit>
     <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
@@ -30,14 +30,14 @@
     <Desc>Coupon</Desc>
     <FundCode>CP</FundCode>
     <ChargeLimit>1000</ChargeLimit>
-    <ChangeLimit>1000</ChangeLimit>
+    <ChangeLimit>5000</ChangeLimit>
     <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
   </TenderType>
   <TenderType id="29">
     <Desc>Discover</Desc>
     <FundCode>DC</FundCode>
-    <ChargeLimit>20</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>0</ChangeLimit>
     <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
@@ -45,7 +45,7 @@
   <TenderType id="diners">
     <Desc>Diners Club</Desc>
     <FundCode>DI</FundCode>
-    <ChargeLimit>0</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>0</ChangeLimit>
     <RefundLimit>0</RefundLimit>
     <Active>0</Active>
@@ -53,7 +53,7 @@
   <TenderType id="23">
     <Desc>Debit Card</Desc>
     <FundCode>DT</FundCode>
-    <ChargeLimit>20</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>0</ChangeLimit>
     <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
@@ -69,7 +69,7 @@
   <TenderType id="27">
     <Desc>MasterCard</Desc>
     <FundCode>MA</FundCode>
-    <ChargeLimit>20</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>0</ChangeLimit>
     <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
@@ -77,7 +77,7 @@
   <TenderType id="travelers">
     <Desc>Travelers Check</Desc>
     <FundCode>TC</FundCode>
-    <ChargeLimit>500</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>99</ChangeLimit>
     <RefundLimit>0</RefundLimit>
     <Active>1</Active>
@@ -85,7 +85,7 @@
   <TenderType id="28">
     <Desc>Visa</Desc>
     <FundCode>VI</FundCode>
-    <ChargeLimit>20</ChargeLimit>
+    <ChargeLimit>5000</ChargeLimit>
     <ChangeLimit>0</ChangeLimit>
     <RefundLimit>1000</RefundLimit>
     <Active>1</Active>
