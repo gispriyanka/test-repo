@@ -1,0 +1,13 @@
+<Locations>
+  <LocationGroup id="posMClient-grp-all">
+    <Name>posMClient-group-all</Name>
+    <ParentId>grp-all</ParentId>
+    <IsDeleted>0</IsDeleted>
+  </LocationGroup>
+  
+  <LocationGroup id="test-all">
+    <Name>test-all</Name>
+    <ParentId>posMClient-grp-all</ParentId>
+    <IsDeleted>0</IsDeleted>
+  </LocationGroup>
+</Locations>
