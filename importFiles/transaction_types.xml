@@ -130,8 +130,8 @@
     <Desc>Login</Desc>
     <Code>89</Code>    
   </TransactionType>
-  <TransactionType id="xread">
-    <Desc>Xread</Desc>
+  <TransactionType id="tillSpotCheck">
+    <Desc>TillSpotCheck</Desc>
     <Code>97</Code>    
   </TransactionType>
   <TransactionType id="zread">

@@ -1,5 +1,5 @@
 <Retailers>
-	<Retailer id="showcase-qa" locationId="test-all">
+	<Retailer id="defaultRetailer" locationId="test-all">
 		<Name>OVC Showcase QA Retailer</Name>
 		<BaseCommerceServer>http://electronics.showcaseqa.mybasket.com:9001</BaseCommerceServer>
 		<ProductQueryEndpoint>extovc/ovcProductQuery.html</ProductQueryEndpoint>
