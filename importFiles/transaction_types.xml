@@ -42,6 +42,10 @@
     <Desc>PayOut</Desc>
     <Code>41</Code>    
   </TransactionType>
+  <TransactionType id="failedPayOut">
+    <Desc>FailedPayOut</Desc>
+    <Code>411</Code>    
+  </TransactionType>
   <TransactionType id="delivery">
     <Desc>Delivery</Desc>
     <Code>42</Code>    
