@@ -34,6 +34,10 @@
     <Desc>CashPickup</Desc>
     <Code>39</Code>    
   </TransactionType>
+  <TransactionType id="failedCashPickup">
+    <Desc>FailedCashPickup</Desc>
+    <Code>391</Code>    
+  </TransactionType>
   <TransactionType id="payIn">
     <Desc>CashIn = PayIn</Desc>
     <Code>40</Code>    
