@@ -176,6 +176,10 @@
     <Desc>Replenish till funds</Desc>
   </ReasonCode>
   
+  <ReasonCode type="currencyPurchase" id="9200">
+    <Desc>Replenish safe funds</Desc>
+  </ReasonCode>
+  
   <ReasonCode type="priceChange" id="1001">
     <Desc>In store price difference</Desc>
   </ReasonCode>

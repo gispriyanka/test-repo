@@ -150,6 +150,10 @@
     <Desc>NoSale</Desc>
     <Code>99</Code>    
   </TransactionType>  
+  <TransactionType id="currencyPurchase">
+    <Desc>CurrencyPurchase</Desc>
+    <Code>540</Code>    
+  </TransactionType>
   <TransactionType id="float">
     <Desc>Float</Desc>
     <Code>541</Code>    
