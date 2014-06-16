@@ -134,9 +134,6 @@
   <ReasonCode type="payIn" id="6202">
     <Desc>Start of day</Desc>
   </ReasonCode>
-  <ReasonCode type="payIn" id="6205">
-    <Desc>Replenish till funds</Desc>
-  </ReasonCode>
   <ReasonCode type="payIn" id="6206">
     <Desc>Unused paid out</Desc>
   </ReasonCode>
@@ -173,6 +170,10 @@
   </ReasonCode>
   <ReasonCode type="payOut" id="9035">
     <Desc>Video rental</Desc>
+  </ReasonCode>
+  
+  <ReasonCode type="float" id="9100">
+    <Desc>Replenish till funds</Desc>
   </ReasonCode>
   
   <ReasonCode type="priceChange" id="1001">
