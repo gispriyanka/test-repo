@@ -150,4 +150,16 @@
     <Desc>NoSale</Desc>
     <Code>99</Code>    
   </TransactionType>  
+  <TransactionType id="float">
+    <Desc>Float</Desc>
+    <Code>541</Code>    
+  </TransactionType>
+  <TransactionType id="failedFloat">
+    <Desc>FailedFloat</Desc>
+    <Code>5411</Code>    
+  </TransactionType>
+  <TransactionType id="deposit">
+    <Desc>Deposit</Desc>
+    <Code>542</Code>    
+  </TransactionType>
 </TransactionTypes>
