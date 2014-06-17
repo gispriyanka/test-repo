@@ -166,4 +166,8 @@
     <Desc>Deposit</Desc>
     <Code>542</Code>    
   </TransactionType>
+  <TransactionType id="safeSpotCheck">
+    <Desc>SafeSpotCheck</Desc>
+    <Code>543</Code>    
+  </TransactionType>
 </TransactionTypes>
