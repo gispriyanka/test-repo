@@ -166,6 +166,10 @@
     <Desc>Deposit</Desc>
     <Code>542</Code>    
   </TransactionType>
+  <TransactionType id="failedDeposit">
+    <Desc>FailedDeposit</Desc>
+    <Code>5421</Code>    
+  </TransactionType>
   <TransactionType id="safeSpotCheck">
     <Desc>SafeSpotCheck</Desc>
     <Code>543</Code>    
