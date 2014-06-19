@@ -212,4 +212,11 @@
   <ReasonCode type="postVoid" id="0103P">
     <Desc>Insufficient funds</Desc>
   </ReasonCode>
+
+  <ReasonCode type="endOfDayDiscrepancy" id="9400">
+    <Desc>Cashier error</Desc>
+  </ReasonCode>
+  <ReasonCode type="endOfDayDiscrepancy" id="9401">
+    <Desc>Acceptable discrepancy</Desc>
+  </ReasonCode>
 </ReasonCodes>
