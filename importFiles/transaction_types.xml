@@ -142,9 +142,13 @@
     <Desc>TillSpotCheck</Desc>
     <Code>97</Code>    
   </TransactionType>
-  <TransactionType id="zread">
-    <Desc>Zread</Desc>
+  <TransactionType id="endOfDay">
+    <Desc>EndOfDay</Desc>
     <Code>98</Code>    
+  </TransactionType>
+  <TransactionType id="failedEndOfDay">
+    <Desc>FailedEndOfDay</Desc>
+    <Code>981</Code>    
   </TransactionType>
   <TransactionType id="noSale">
     <Desc>NoSale</Desc>
