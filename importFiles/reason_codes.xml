@@ -219,4 +219,8 @@
   <ReasonCode type="endOfDayDiscrepancy" id="9401">
     <Desc>Acceptable discrepancy</Desc>
   </ReasonCode>
+  
+  <ReasonCode type="suspend" id="10100">
+    <Desc>Forgot Wallet</Desc>
+  </ReasonCode>  
 </ReasonCodes>
