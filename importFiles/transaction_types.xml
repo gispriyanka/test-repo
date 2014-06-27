@@ -178,4 +178,8 @@
     <Desc>SafeSpotCheck</Desc>
     <Code>543</Code>    
   </TransactionType>
+  <TransactionType id="suspended">
+    <Desc>Suspended</Desc>
+    <Code>601</Code>    
+  </TransactionType>
 </TransactionTypes>
