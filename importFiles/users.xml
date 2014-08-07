@@ -1,0 +1,14 @@
+<Users locationId="grp-all">
+  <User id="eCommerceExternalUser">
+    <Username>eCommerce</Username>
+    <PassHash>8Ykc6oD8BeQzyUMlTGvavBWVd6Aqc5Xf67+8T3Zh1K9W8tNyExpFk23kAWAAc2ilbvIWowyyAsZtMUX9JDgJBg==</PassHash>
+    <Active>1</Active>
+    <FName>Commerce</FName>
+    <LName>Site</LName>
+    <EMail>support@oneviewcommerce.com</EMail>
+    <IsDeleted>0</IsDeleted>
+    <Roles>
+      <RoleId>1050</RoleId>
+    </Roles>
+  </User>
+</Users>
