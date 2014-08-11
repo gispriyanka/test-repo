@@ -2,6 +2,7 @@
   <User id="eCommerceExternalUser">
     <Username>eCommerce</Username>
     <PassHash>8Ykc6oD8BeQzyUMlTGvavBWVd6Aqc5Xf67+8T3Zh1K9W8tNyExpFk23kAWAAc2ilbvIWowyyAsZtMUX9JDgJBg==</PassHash>
+    <HashClass>com.oneview.server.custom.Sha512PasswordValidator</HashClass>
     <Active>1</Active>
     <FName>Commerce</FName>
     <LName>Site</LName>
