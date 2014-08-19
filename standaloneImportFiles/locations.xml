@@ -1,0 +1,8 @@
+<Locations>
+  <Location id="OvcStore">
+    <Type>Store</Type>
+    <Name>OVC Store</Name>
+    <ParentId>test-all</ParentId>
+    <IsDeleted>0</IsDeleted>
+  </Location>
+</Locations>
