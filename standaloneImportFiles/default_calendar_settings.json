@@ -22,63 +22,129 @@
   
   "periods": [{ "dayOfWeek": "1",
                 "name": "Morning",
-                "type": 1,
-                "startTime": "08:30",
-                "endTime": "10:00"
-              },
-              { "dayOfWeek": "1",
-                "name": "Morning",
-                "type": 2,
+                "type": 3,
                 "startTime": "10:00",
-                "endTime": "12:00"
+                "endTime": "13:00"
               },
               { "dayOfWeek": "1",
                 "name": "Afternoon",
-                "type": 2,
-                "startTime": "12:00",
-                "endTime": "16:00"
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
               },
               { "dayOfWeek": "1",
                 "name": "Evening",
-                "type": 1,
-                "startTime": "16:00",
-                "endTime": "17:00"
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
               },
-              { "dayOfWeek": "1",
-                "name": "Evening",
-                "type": 2,
-                "startTime": "17:00",
-                "endTime": "20:00"
-              },
-              { "dayOfWeek": "2",
+			  { "dayOfWeek": "2",
                 "name": "Morning",
-                "type": 1,
-                "startTime": "08:30",
-                "endTime": "10:00"
-              },
-              { "dayOfWeek": "2",
-                "name": "Morning",
-                "type": 2,
+                "type": 3,
                 "startTime": "10:00",
-                "endTime": "12:00"
+                "endTime": "13:00"
               },
               { "dayOfWeek": "2",
                 "name": "Afternoon",
-                "type": 2,
-                "startTime": "12:00",
-                "endTime": "16:00"
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
               },
               { "dayOfWeek": "2",
                 "name": "Evening",
-                "type": 1,
-                "startTime": "16:00",
-                "endTime": "17:00"
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
               },
-              { "dayOfWeek": "2",
+			  { "dayOfWeek": "3",
+			    "name": "Morning",
+			    "type": 3,
+			    "startTime": "10:00",
+			    "endTime": "13:00"
+			  },
+              { "dayOfWeek": "3",
+                "name": "Afternoon",
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
+              },
+              { "dayOfWeek": "3",
                 "name": "Evening",
-                "type": 2,
-                "startTime": "17:00",
-                "endTime": "20:00"
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
+              },
+              { "dayOfWeek": "4",
+                "name": "Morning",
+                "type": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+              },
+              { "dayOfWeek": "4",
+                "name": "Afternoon",
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
+              },
+              { "dayOfWeek": "4",
+                "name": "Evening",
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
+              },
+              { "dayOfWeek": "5",
+                "name": "Morning",
+                "type": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+              },
+              { "dayOfWeek": "5",
+                "name": "Afternoon",
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
+              },
+              { "dayOfWeek": "5",
+                "name": "Evening",
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
+              },
+              { "dayOfWeek": "6",
+                "name": "Morning",
+                "type": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+              },
+              { "dayOfWeek": "6",
+                "name": "Afternoon",
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
+              },
+              { "dayOfWeek": "6",
+                "name": "Evening",
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
+              },
+              { "dayOfWeek": "7",
+                "name": "Morning",
+                "type": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+              },
+              { "dayOfWeek": "7",
+                "name": "Afternoon",
+                "type": 3,
+                "startTime": "13:00",
+                "endTime": "15:00"
+              },
+              { "dayOfWeek": "7",
+                "name": "Evening",
+                "type": 3,
+                "startTime": "15:00",
+                "endTime": "19:00"
               }
              ],
              
