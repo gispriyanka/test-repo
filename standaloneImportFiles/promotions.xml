@@ -1,13 +1,13 @@
 <Promotions locationId="OvcStore">
   <Promotion type="discount" id="0101">
-    <Desc>Limited Time Only</Desc>
-    <Alert>Limited Time Only 20% discount for second item</Alert>
+    <Desc>Limited Time Only $10 discount for second item</Desc>
+    <Alert>Limited Time Only $10 discount for second hat</Alert>
     <AmountType>1</AmountType>
     <AmountValue>10</AmountValue>
     <LimitPerTran>9999</LimitPerTran>
     <Threshold>
       <Type>1</Type>
-      <Value>1</Value>
+      <Value>2</Value>
       <Alert>1</Alert>
     </Threshold>
     <Products>
