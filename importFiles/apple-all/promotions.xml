@@ -1,0 +1,53 @@
+<Promotions locationId="OvcStore">
+  <Promotion type="discount" id="0101">
+    <Desc>Limited Time Only</Desc>
+    <Alert>Limited Time $10 discount</Alert>
+    <AmountType>1</AmountType>
+    <AmountValue>10</AmountValue>
+    <LimitPerTran>9999</LimitPerTran>
+    <Threshold>
+      <Type>1</Type>
+      <Value>1</Value>
+      <Alert>1</Alert>
+    </Threshold>
+    <Products>
+      <Id>107701</Id>
+    </Products>
+    <From f="1">19691231</From>
+    <Till f="1">20991231</Till>
+    <RequireLoyalty>0</RequireLoyalty>
+  </Promotion>
+
+  <Promotion type="discount" id="0102">
+    <Desc>Buy one get another for 50% off</Desc>
+    <Alert>Buy another Monopod 100, get it for 50% off</Alert>
+    <AmountType>3</AmountType>
+    <AmountValue>0.5</AmountValue>
+    <LimitPerTran>2</LimitPerTran>
+    <Threshold>
+      <Type>1</Type>
+      <Value>2</Value>
+      <Alert>1</Alert>
+    </Threshold>
+    <Products selection="1">
+      <Id>1099285</Id>
+    </Products>
+    <From f="1">19691231</From>
+    <Till f="1">20991231</Till>
+    <RequireLoyalty>1</RequireLoyalty>
+  </Promotion>
+
+  <Promotion type="discount" id="20% Coupon-MC">
+    <Desc>20% Off Coupon</Desc>
+    <AmountType>2</AmountType>
+    <AmountValue>20.0</AmountValue>
+    <Threshold>
+      <CustomerType>20% Coupon</CustomerType>
+    </Threshold>
+    <MerchandiseGroups>
+      <Id>100-000-000-000</Id>      
+    </MerchandiseGroups>
+    <From f="1">19691231</From>
+    <Till f="1">20991231</Till>
+  </Promotion>
+</Promotions>
