@@ -44,18 +44,6 @@
     <Desc>Ordered online from alt.source</Desc>
     <ScopeType>1</ScopeType>
   </ReasonCode>
-  <ReasonCode type="refund" id="0212">
-    <Desc>Dropped class</Desc>
-    <ScopeType>1</ScopeType>
-  </ReasonCode>
-  <ReasonCode type="refund" id="0213">
-    <Desc>Faculty book change</Desc>
-    <ScopeType>1</ScopeType>
-  </ReasonCode>
-  <ReasonCode type="refund" id="0214">
-    <Desc>Book not needed</Desc>
-    <ScopeType>1</ScopeType>
-  </ReasonCode>
   
   <ReasonCode type="discount" id="1101">
     <Desc>Manager request</Desc>
@@ -212,7 +200,7 @@
   <ReasonCode type="postVoid" id="0103P">
     <Desc>Insufficient funds</Desc>
   </ReasonCode>
-
+  
   <ReasonCode type="endOfDayDiscrepancy" id="9400">
     <Desc>Cashier error</Desc>
   </ReasonCode>
@@ -222,5 +210,8 @@
   
   <ReasonCode type="suspend" id="10100">
     <Desc>Forgot Wallet</Desc>
-  </ReasonCode>  
+  </ReasonCode>    
+   <ReasonCode type="suspend" id="10101">
+    <Desc>Customer forgot to get coupon</Desc>
+  </ReasonCode>    
 </ReasonCodes>
