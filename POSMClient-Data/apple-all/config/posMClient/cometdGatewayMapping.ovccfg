@@ -1,0 +1,27 @@
+{
+  "apptCancelled": "posMClient/model/emitters/appointment/AddOrUpdateAppointmentInLocalDB.ovcgtw",
+  "apptScheduled": "posMClient/model/emitters/appointment/AddOrUpdateAppointmentInLocalDB.ovcgtw",
+  "apptUpdated": "posMClient/model/emitters/appointment/AddOrUpdateAppointmentInLocalDB.ovcgtw",
+  "apptProcessing": "posMClient/model/emitters/appointment/AddOrUpdateAppointmentInLocalDB.ovcgtw",
+  "apptReady": "posMClient/model/emitters/appointment/AddOrUpdateAppointmentInLocalDB.ovcgtw",
+  
+  "returnInitiated": "posMClient/model/emitters/returnItem/AddOrUpdateReturnInLocalDB.ovcgtw",
+  "returnUpdated": "posMClient/model/emitters/returnItem/UpdateReturnStatus.ovcgtw",
+  
+  "pickupCancelled": "posMClient/model/emitters/pickup/AddOrUpdatePickupInLocalDB.ovcgtw",
+  "pickupOrdered": "posMClient/model/emitters/pickup/AddOrUpdatePickupInLocalDB.ovcgtw",
+  "pickupUpdated": "posMClient/model/emitters/pickup/AddOrUpdatePickupInLocalDB.ovcgtw",
+  "pickupProcessing": "posMClient/model/emitters/pickup/AddOrUpdatePickupInLocalDB.ovcgtw",
+  "pickupReady": "posMClient/model/emitters/pickup/AddOrUpdatePickupInLocalDB.ovcgtw",
+  
+  "oposOrderCreated": "posMClient/model/emitters/receipt/oposOrderCreated.ovcgtw",
+  "addedToReceipt": "posMClient/model/emitters/receipt/AddedToReceipt.ovcgtw",
+
+  "alertSync": "posMClient/model/emitters/alert/NewCometdConnectionSync.ovcgtw",
+  "deleteAlerts": "posMClient/model/emitters/alert/DeleteAlerts.ovcgtw",
+  "touchAlerts": "posMClient/model/emitters/alert/TouchAlerts.ovcgtw",
+  
+  "updatedStockLevelAmount": "posMClient/model/emitters/stock/management/UpdatedStockLevelAmount.ovcgtw",
+  
+  "addedToStockLevel": "posMClient/model/emitters/stock/AddedToStockLevel.ovcgtw"
+}
