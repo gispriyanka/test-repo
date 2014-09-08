@@ -8,9 +8,9 @@
   <TaxRateMapping>
     <TaxRateId>IN-7.0</TaxRateId>
     <GroupId>100-000-000-000</GroupId>
-    <ProductId>000000001</ProductId>
-    <!--RetailerId>defaultRetailer</RetailerId>
-    <SKU>100000001</SKU-->
+    <!-- ProductId>000000001</ProductId-->
+    <RetailerId>defaultRetailer</RetailerId>
+    <SKU>100000001</SKU>
     <StartDate f="1">20120222</StartDate>
     <EndDate f="1">50009999</EndDate>
   </TaxRateMapping>
