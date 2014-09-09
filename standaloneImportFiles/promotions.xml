@@ -1,4 +1,4 @@
-<Promotions locationId="OvcStore">
+<Promotions locationId="OvcStore" retailerId="defaultRetailer">
   <Promotion type="discount" id="0101">
     <Desc>Limited Time Only $10 discount for second item</Desc>
     <Alert>Limited Time Only $10 discount for second hat</Alert>
@@ -11,7 +11,7 @@
       <Alert>1</Alert>
     </Threshold>
     <Products>
-      <Id>000000001</Id>
+      <SKU>000000001</SKU>
     </Products>
     <From f="1">19691231</From>
     <Till f="1">20991231</Till>
@@ -30,7 +30,7 @@
       <Alert>1</Alert>
     </Threshold>
     <Products selection="1">
-      <Id>000000003</Id>
+      <SKU>000000003</SKU>
     </Products>
     <From f="1">19691231</From>
     <Till f="1">20991231</Till>
@@ -38,11 +38,11 @@
   </Promotion>
 
   <Promotion type="discount" id="20% Coupon-MC">
-    <Desc>20% Off Coupon</Desc>
+    <Desc>Gold Member</Desc>
     <AmountType>2</AmountType>
     <AmountValue>20.0</AmountValue>
     <Threshold>
-      <CustomerType>20% Coupon</CustomerType>
+      <CustomerType>Gold Member</CustomerType>
     </Threshold>
     <MerchandiseGroups>
       <Id>100-000-000-000</Id>
