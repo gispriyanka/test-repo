@@ -38,11 +38,11 @@
   </Promotion>
 
   <Promotion type="discount" id="20% Coupon-MC">
-    <Desc>20% Off Coupon</Desc>
+    <Desc>Gold Member</Desc>
     <AmountType>2</AmountType>
     <AmountValue>20.0</AmountValue>
     <Threshold>
-      <CustomerType>20% Coupon</CustomerType>
+      <CustomerType>Gold Member</CustomerType>
     </Threshold>
     <MerchandiseGroups>
       <Id>100-000-000-000</Id>
