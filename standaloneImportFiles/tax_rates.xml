@@ -13,5 +13,6 @@
       <Range fromPrice='-1' upToPrice='100000000000'>7.0</Range>
     </PercentageRanges>
     <Currency>USD</Currency>
+    <IsVAT>0</IsVAT>
   </TaxRate>
 </TaxRates>
