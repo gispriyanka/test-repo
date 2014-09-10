@@ -1,0 +1,15 @@
+<TaxRateMappings locationId="OvcStore" retailerId="defaultRetailer">
+  <TaxRateMapping>
+    <TaxRateId>IN-7.0</TaxRateId>
+    <GroupId>000-000-000-000</GroupId>    
+    <StartDate f="1">20120222</StartDate>
+    <EndDate f="1">50009999</EndDate>
+  </TaxRateMapping>
+  <TaxRateMapping>
+    <TaxRateId>IN-7.0</TaxRateId>
+    <GroupId>100-000-000-000</GroupId>
+    <SKU>107701</SKU>
+    <StartDate f="1">20120222</StartDate>
+    <EndDate f="1">50009999</EndDate>
+  </TaxRateMapping>
+</TaxRateMappings>
