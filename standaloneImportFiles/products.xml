@@ -1,66 +1,107 @@
 <Products locationId="OvcStore">
-  <Product id="000000001">
-  	<RetailerId>defaultRetailer</RetailerId>
-  	<SKU>100000001</SKU>
-    <Name>OVC Hat</Name>
-    <Desc>Rugged styling, comfortable fit.</Desc>
-    <ProductURL>http://oneviewcommerce.com/OVC_integration/OVC_hat.html</ProductURL>
-    <MainImageId>posMClient/product/000000004.png</MainImageId>
-    <AllowDiscounts>1</AllowDiscounts>
-    <Status>2</Status>
-    <IsDeleted>0</IsDeleted>
-    <MerchandiseGroup>100-000-000-000</MerchandiseGroup>
-    <InitialPrice>20.00</InitialPrice>
-    <Properties>
-      <Color>0000</Color>
-      <Set_sku>0</Set_sku>
-      <Vendor>222222</Vendor>
-      <SellUnit>EA</SellUnit>
-      <Cost>00000000000</Cost>
-    </Properties>
-  </Product>
+	<Product id="000000001">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>100000001</SKU>
+		<Name>OVC Hat</Name>
+		<Desc>Rugged styling, comfortable fit.</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/OVC_hat.html</ProductURL>
+		<MainImageId>posMClient/product/000000004.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>20.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
 
 
-  <Product id="000000002">
-  	<RetailerId>defaultRetailer</RetailerId>
-  	<SKU>100000002</SKU>
-    <Name>OVC Pants</Name>
-    <Desc>100% Wool, Tailored Fit.</Desc>
-    <ProductURL>http://oneviewcommerce.com/OVC_integration/OVC_pants.html</ProductURL>
-    <MainImageId>posMClient/product/000000005.png</MainImageId>
-    <AllowDiscounts>1</AllowDiscounts>
-    <Status>2</Status>
-    <IsDeleted>0</IsDeleted>
-    <MerchandiseGroup>100-000-000-000</MerchandiseGroup>
-    <InitialPrice>50.00</InitialPrice>
-    <Properties>
-      <Color>0000</Color>
-      <Set_sku>0</Set_sku>
-      <Vendor>222222</Vendor>
-      <SellUnit>EA</SellUnit>
-      <Cost>00000000000</Cost>
-    </Properties>
-  </Product>
+	<Product id="000000002">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>100000002</SKU>
+		<Name>OVC Pants</Name>
+		<Desc>100% Wool, Tailored Fit.</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/OVC_pants.html</ProductURL>
+		<MainImageId>posMClient/product/000000005.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>50.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
 
-  <Product id="000000003">
-  	<RetailerId>defaultRetailer</RetailerId>
-  	<SKU>100000003</SKU>
-    <Name>OVC Shirt</Name>
-    <Desc>Pinpoint, 100% Cotton, Classic Fit.</Desc>
-    <ProductURL>http://oneviewcommerce.com/OVC_integration/OVC_shirt.html</ProductURL>
-    <MainImageId>posMClient/product/000000006.png</MainImageId>
-    <AllowDiscounts>1</AllowDiscounts>
-    <Status>2</Status>
-    <IsDeleted>0</IsDeleted>
-    <MerchandiseGroup>100-000-000-000</MerchandiseGroup>
-    <InitialPrice>65.00</InitialPrice>
-    <Properties>
-      <Color>0000</Color>
-      <Set_sku>0</Set_sku>
-      <Vendor>222222</Vendor>
-      <SellUnit>EA</SellUnit>
-      <Cost>00000000000</Cost>
-    </Properties>
-  </Product>
- 
+	<Product id="000000003">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>100000003</SKU>
+		<Name>OVC Shirt</Name>
+		<Desc>Pinpoint, 100% Cotton, Classic Fit.</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/OVC_shirt.html</ProductURL>
+		<MainImageId>posMClient/product/000000006.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>65.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="1">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>1</SKU>
+		<Name>Pencil Sharpener</Name>
+		<Desc>Pinpoint sharpness for maximum writing capability.</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/pencil_sharpener.html</ProductURL>
+		<MainImageId>posMClient/product/000000006.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>19.99</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="2">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>2</SKU>
+		<Name>Jar of Buttons</Name>
+		<Desc>Many colors and sizes. Mix and match!</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/jar_of_buttons.html</ProductURL>
+		<MainImageId>posMClient/product/000000006.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>15.02</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
 </Products>
