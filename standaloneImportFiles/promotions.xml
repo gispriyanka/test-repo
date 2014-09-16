@@ -1,3 +1,8 @@
+<!-- 
+  AmountType: Currency = 1, Percent = 2, NumFreeItems = 3
+  ThresholdType: Count = 1
+  ProductsSelection: Cheapest = 1
+ -->
 <Promotions locationId="OvcStore" retailerId="defaultRetailer">
   <Promotion type="discount" id="0101">
     <Desc>Limited Time Only $10 discount for second item</Desc>

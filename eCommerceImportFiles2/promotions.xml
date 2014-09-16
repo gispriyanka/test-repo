@@ -1,3 +1,8 @@
+<!-- 
+  AmountType: 0 = Total Amount, 1 = Amount Discount, 2 = Percent Discount, 3 = NumFreeItems
+  ThresholdType: Count = 1
+  ProductsSelection: Cheapest = 1
+ -->
 <Promotions locationId="OvcStore" retailerId="defaultRetailer">
   <Promotion type="discount" id="0101">
     <Desc>Limited Time Only</Desc>
@@ -35,6 +40,27 @@
     <From f="1">19691231</From>
     <Till f="1">20991231</Till>
     <RequireLoyalty>1</RequireLoyalty>
+  </Promotion>
+  
+  <Promotion type="bundle" id="0400">
+    <Desc>Buy a,b,c together for only $20</Desc>
+    <Alert>Buy a,b,c together for only $20</Alert>
+    <AmountType>0</AmountType>
+    <AmountValue>1200</AmountValue>
+    <LimitPerTran>2</LimitPerTran>
+    <Threshold>
+      <Type>1</Type>
+      <Value>1</Value>
+      <!-- Alert>1</Alert -->
+    </Threshold>
+    <Products selection="1">
+      <SKU exactQty="1">482105</SKU>
+      <SKU exactQty="1">1997551</SKU>
+      <SKU exactQty="1">816780</SKU>      
+    </Products>
+    <From f="1">19691231</From>
+    <Till f="1">20991231</Till>
+    <RequireLoyalty>0</RequireLoyalty>
   </Promotion>
 
   <!-- Promotion type="discount" id="0505">
