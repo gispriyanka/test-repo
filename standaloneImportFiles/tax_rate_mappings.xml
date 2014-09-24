@@ -7,7 +7,7 @@
   </TaxRateMapping>
   <TaxRateMapping>
     <TaxRateId>IN-7.0</TaxRateId>
-    <GroupId>100-000-000-000</GroupId>
+    <GroupId></GroupId>
     <SKU>100000001</SKU>
     <StartDate f="1">20120222</StartDate>
     <EndDate f="1">50009999</EndDate>
