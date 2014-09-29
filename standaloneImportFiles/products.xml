@@ -104,4 +104,26 @@
 			<Cost>00000000000</Cost>
 		</Properties>
 	</Product>
+
+	<Product id="000000004">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>4</SKU>
+		<Name>Caligraphy Quill</Name>
+		<Desc>Sign your checks in style</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/quill.html</ProductURL>
+		<MainImageId>posMClient/product/000000007.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>300-000-000-000</MerchandiseGroup>
+		<InitialPrice>10.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
 </Products>
