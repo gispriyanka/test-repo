@@ -2,6 +2,7 @@
   <Location id="OvcStore">
     <Type>Store</Type>
     <Name>OVC Store</Name>
+    <DisplayName>OVC Booth</DisplayName>
     <ParentId>test-all</ParentId>
     <IsDeleted>0</IsDeleted>
   </Location>

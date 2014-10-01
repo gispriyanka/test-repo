@@ -105,7 +105,49 @@
 		</Properties>
 	</Product>
 
-	<Product id="000000004">
+	<Product id="3">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>3</SKU>
+		<Name>Shoe Polish</Name>
+		<Desc>Dress for the job you want</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/shoe_polish.html</ProductURL>
+		<MainImageId>posMClient/product/000000006.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>5.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="5">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>5</SKU>
+		<Name>Shoe Laces</Name>
+		<Desc>You never think you need them.. Until you do</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/shoe_laces.html</ProductURL>
+		<MainImageId>posMClient/product/000000006.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
+		<InitialPrice>1.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="4">
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>4</SKU>
 		<Name>Caligraphy Quill</Name>
@@ -125,5 +167,91 @@
 			<Cost>00000000000</Cost>
 		</Properties>
 	</Product>
+
+	<Product id="6">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>6</SKU>
+		<Name>Check Book</Name>
+		<Desc>Available in plain or kitten</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/check_book.html</ProductURL>
+		<MainImageId>posMClient/product/000000007.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>300-000-000-000</MerchandiseGroup>
+		<InitialPrice>40.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="7">
+		<RetailerId>DefaultRetailer</RetailerId>
+		<SKU>7</SKU>
+		<Name>Mars Rover</Name>
+		<Desc>Cruise the craters</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/mars_rover.html</ProductURL>
+		<MainImageId>posMClient/product/000000007.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>300-000-000-000</MerchandiseGroup>
+		<InitialPrice>100.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="8">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>8</SKU>
+		<Name>Mars Lander</Name>
+		<Desc>A must for all interplanetary explorers</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/quill.html</ProductURL>
+		<MainImageId>posMClient/product/000000007.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>300-000-000-000</MerchandiseGroup>
+		<InitialPrice>200.00</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+	<Product id="9">
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>9</SKU>
+		<Name>Yuengling 6 Pack</Name>
+		<Desc>Best beer for dringing while watching the Eagles</Desc>
+		<ProductURL>http://oneviewcommerce.com/OVC_integration/quill.html</ProductURL>
+		<MainImageId>posMClient/product/000000007.png</MainImageId>
+		<AllowDiscounts>1</AllowDiscounts>
+		<Status>2</Status>
+		<IsDeleted>0</IsDeleted>
+		<MerchandiseGroup>300-000-000-000</MerchandiseGroup>
+		<InitialPrice>7.50</InitialPrice>
+		<Properties>
+			<Color>0000</Color>
+			<Set_sku>0</Set_sku>
+			<Vendor>222222</Vendor>
+			<SellUnit>EA</SellUnit>
+			<Cost>00000000000</Cost>
+		</Properties>
+	</Product>
+
+
 
 </Products>
