@@ -1,43 +1,43 @@
 <object-locations>
-  <pages>
-  </pages>
+	<pages>
+	</pages>
 
-  <images>
-  </images>
+	<images>
+	</images>
 
-  <css>
-  </css>
+	<css>
+	</css>
 
-  <js>
-  </js>
+	<js>
+	</js>
 
-  <menus>
-  </menus>
+	<menus>
+	</menus>
 
-  <processes>
-  </processes>
+	<processes>
+	</processes>
 
-  <actions>
-  </actions>
+	<actions>
+	</actions>
 
-  <templates>
-  </templates>
+	<templates>
+	</templates>
 
-  <resources>
-  </resources>
+	<resources>
+	</resources>
 
-  <config>
-  </config>
+	<config>
+	</config>
 
-  <sql>
-  </sql>
+	<sql>
+	</sql>
 
-  <gateways>
-  </gateways>
+	<gateways>
+	</gateways>
 
-  <listeners>
-  </listeners>
+	<listeners>
+	</listeners>
 
-   <htmlTemplates>
-  </htmlTemplates>
+	<htmlTemplates>
+	</htmlTemplates>
 </object-locations>
