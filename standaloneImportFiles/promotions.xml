@@ -183,8 +183,8 @@
     <From f="1">19691231</From>
     <Till f="1">20991231</Till>
   </Promotion -->
-  <Promotion type="custType" id="20% Coupon-MC">
-    <Desc>Gold Member</Desc>
+  <Promotion type="custType" id="9900">
+    <Desc>Gold Member (20% off)</Desc>
     <AmountType>2</AmountType>
     <AmountValue>20.0</AmountValue>
     <Threshold>
