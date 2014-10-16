@@ -141,8 +141,8 @@
 		<AllowDiscounts>1</AllowDiscounts>
 		<Status>2</Status>
 		<IsDeleted>0</IsDeleted>
-		<MerchandiseGroup>100-000-000-000</MerchandiseGroup>
-		<InitialPrice>15.02</InitialPrice>
+		<MerchandiseGroup>400-000-000-000</MerchandiseGroup>
+		<InitialPrice>14.95</InitialPrice>
 		<Properties>
 			<Color>0000</Color>
 			<Set_sku>0</Set_sku>

@@ -13,7 +13,10 @@
     <Name>Merchandising-VAT</Name>
     <ParentId>000-000-000-000</ParentId>
   </Group>
-
+  <Group type="1" id="400-000-000-000">
+    <Name>Non-Merchandising</Name>
+    <ParentId/>
+  </Group>
   <Group type="1" id="200-000-000-000">
     <Name>Non-Merchandising</Name>
     <ParentId>000-000-000-000</ParentId>
