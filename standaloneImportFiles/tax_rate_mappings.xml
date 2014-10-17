@@ -1,27 +1,33 @@
 <TaxRateMappings locationId="OvcStore" retailerId="defaultRetailer">
-  <TaxRateMapping>
-    <TaxRateId>IN-7.0</TaxRateId>
-    <GroupId>100-000-000-000</GroupId>    
-    <StartDate f="1">20120222</StartDate>
-    <EndDate f="1">50009999</EndDate>
-  </TaxRateMapping>
-  <TaxRateMapping>
-    <TaxRateId>IN-7.0</TaxRateId>
-    <GroupId>200-000-000-000</GroupId>    
-    <StartDate f="1">20120222</StartDate>
-    <EndDate f="1">50009999</EndDate>
-  </TaxRateMapping>
-  <TaxRateMapping>
-    <TaxRateId>IN-7.0-VAT</TaxRateId>
-    <GroupId>300-000-000-000</GroupId>    
-    <StartDate f="1">20120222</StartDate>
-    <EndDate f="1">50009999</EndDate>
-  </TaxRateMapping>
-  <TaxRateMapping>
-    <TaxRateId>IN-7.0</TaxRateId>
-    <GroupId></GroupId>
-    <SKU>100000001</SKU>
-    <StartDate f="1">20120222</StartDate>
-    <EndDate f="1">50009999</EndDate>
-  </TaxRateMapping>
+	<TaxRateMapping>
+		<TaxRateId>IN-7.0</TaxRateId>
+		<GroupId>100-000-000-000</GroupId>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
+	<TaxRateMapping>
+		<TaxRateId>IN-7.0</TaxRateId>
+		<GroupId>200-000-000-000</GroupId>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
+	<TaxRateMapping>
+		<TaxRateId>IN-7.0-VAT</TaxRateId>
+		<GroupId>300-000-000-000</GroupId>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
+	<TaxRateMapping>
+		<TaxRateId>IN-7.0-VAT</TaxRateId>
+		<GroupId>400-000-000-000</GroupId>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
+	<TaxRateMapping>
+		<TaxRateId>IN-7.0</TaxRateId>
+		<GroupId></GroupId>
+		<SKU>100000001</SKU>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
 </TaxRateMappings>
