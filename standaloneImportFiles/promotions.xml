@@ -1,4 +1,4 @@
-<!-- 
+<!--
   AmountType: Currency = 1, Percent = 2, NumFreeItems = 3
   ThresholdType: Count = 1
   ProductsSelection: Cheapest = 1
@@ -43,7 +43,7 @@
     <Till f="1">20991231</Till>
     <RequireLoyalty>0</RequireLoyalty>
   </Promotion>
-  
+
   <!-- OLD Promotion type="discount" id="0102">
     <Desc>Buy one get another for 50% off</Desc>
     <Alert>Buy another get it for 50% off</Alert>
@@ -83,10 +83,10 @@
     <Till f="1">20991231</Till>
     <RequireLoyalty>1</RequireLoyalty>
   </Promotion>
-  
+
   <Promotion type="bundle" id="0103">
-    <Desc>Buy polish and laces together for only $5.50</Desc>
-    <Alert>Buy polish and laces together for only $5.50</Alert>
+    <Desc>Chef's Special: Buy polish and laces together for only $5.50</Desc>
+    <Alert>Chef's Special: Buy polish and laces together for only $5.50</Alert>
     <AmountType>0</AmountType>
     <AmountValue>5.5</AmountValue>
     <LimitPerTran>2</LimitPerTran>
@@ -103,7 +103,7 @@
     <Till f="1">20991231</Till>
     <RequireLoyalty>0</RequireLoyalty>
   </Promotion>
-  
+
   <Promotion type="bundle" id="0104">
     <Desc>Buy pants get a free jar of buttons</Desc>
     <Alert>Buy pants get a free jar of buttons</Alert>
@@ -146,7 +146,7 @@
     <Till f="1">20991231</Till>
     <RequireLoyalty>0</RequireLoyalty>
   </Promotion>
-  
+
   <Promotion type="bundle" id="0106">
     <Desc>Buy a check book get a free pen</Desc>
     <Alert>Buy a check book get a free pen</Alert>
@@ -178,7 +178,7 @@
       <CustomerType>Gold Member</CustomerType>
     </Threshold>
     <MerchandiseGroups>
-      <Id>100-000-000-000</Id>      
+      <Id>100-000-000-000</Id>
     </MerchandiseGroups>
     <From f="1">19691231</From>
     <Till f="1">20991231</Till>
