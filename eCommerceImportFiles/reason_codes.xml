@@ -1,4 +1,4 @@
-<!-- 
+<!--
   AmountType: Amount = 1, Percent = 2, Either = 3
   ScopeType: Item = 1, Transaction = 2, Either = 3
  -->

@@ -1,50 +1,50 @@
 <object-locations>
-	<pages>
-	</pages>
+  <pages>
+  </pages>
 
-	<images>
-	</images>
+  <images>
+  </images>
 
-	<css>
-	</css>
+  <css>
+  </css>
 
-	<js>
-		<file folder="apple-all" name="posMClient/dojoCustomSrc/posmclient/HeaderToolBar" location="apple-all"/>
-	</js>
+  <js>
+    <file folder="apple-all" name="posMClient/dojoCustomSrc/posmclient/HeaderToolBar" location="apple-all" />
+  </js>
 
-	<menus>
-		<file folder="apple-all" name="posMClient/pos_manager_key.ovcmnu" location="apple-all"/>
-		<file folder="apple-all" name="posMClient/pos_checkout_receipts.ovcmnu" location="apple-all"/>
-		<file folder="apple-all" name="posMClient/pos_checkout.ovcmnu" location="apple-all"/>
-	</menus>
+  <menus>
+    <file folder="apple-all" name="posMClient/pos_manager_key.ovcmnu" location="apple-all" />
+    <file folder="apple-all" name="posMClient/pos_checkout_receipts.ovcmnu" location="apple-all" />
+    <file folder="apple-all" name="posMClient/pos_checkout.ovcmnu" location="apple-all" />
+  </menus>
 
-	<processes>
-	</processes>
+  <processes>
+  </processes>
 
-	<actions>
-	</actions>
+  <actions>
+  </actions>
 
-	<templates>
-	</templates>
+  <templates>
+  </templates>
 
-	<resources>
-	</resources>
+  <resources>
+  </resources>
 
-	<config>
-		<file folder="apple-all" name="posMClient/pos.ovccfg" location="apple-all"/>
-		<file folder="apple-all" name="posMClient/alerts.ovccfg" location="apple-all"/>
-		<file folder="apple-all" name="posMClient/cometdGatewayMapping.ovccfg" location="apple-all"/>
-	</config>
+  <config>
+    <file folder="apple-all" name="posMClient/pos.ovccfg" location="apple-all" />
+    <file folder="apple-all" name="posMClient/alerts.ovccfg" location="apple-all" />
+    <file folder="apple-all" name="posMClient/cometdGatewayMapping.ovccfg" location="apple-all" />
+  </config>
 
-	<sql>
-	</sql>
+  <sql>
+  </sql>
 
-	<gateways>
-	</gateways>
+  <gateways>
+  </gateways>
 
-	<listeners>
-	</listeners>
+  <listeners>
+  </listeners>
 
-	<htmlTemplates>
-	</htmlTemplates>
+   <htmlTemplates>
+  </htmlTemplates>
 </object-locations>
