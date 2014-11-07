@@ -161,6 +161,7 @@
     <Products selection="1">
       <SKU exactQty="1">4</SKU>
       <SKU exactQty="1">6</SKU>
+      <SKU exactQty="1">2</SKU>
     </Products>
     <PromoTargets selection="1">
       <TargetSKU exactQty="1">4</TargetSKU>
