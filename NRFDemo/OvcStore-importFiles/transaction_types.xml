@@ -1,0 +1,185 @@
+<!--
+  Code is the target system's transaction type code
+-->
+<TransactionTypes>
+  <TransactionType id="regularSale">
+    <Desc>RegularSale</Desc>
+    <Code>1</Code>    
+  </TransactionType>
+  <TransactionType id="houseCharge">
+    <Desc>HouseCharge</Desc>
+    <Code>2</Code>    
+  </TransactionType>
+  <TransactionType id="employeeSale">
+    <Desc>EmployeeSale</Desc>
+    <Code>4</Code>    
+  </TransactionType>
+  <TransactionType id="chequeCash">
+    <Desc>ChequeCash</Desc>
+    <Code>5</Code>    
+  </TransactionType>
+  <TransactionType id="regularReturn">
+    <Desc>RegularReturn</Desc>
+    <Code>11</Code>    
+  </TransactionType>
+  <TransactionType id="priceLokup">
+    <Desc>PriceLookup</Desc>
+    <Code>13</Code>    
+  </TransactionType>
+  <TransactionType id="employeeReturn">
+    <Desc>EmployeeReturn</Desc>
+    <Code>14</Code>    
+  </TransactionType>
+  <TransactionType id="cashPickup">
+    <Desc>CashPickup</Desc>
+    <Code>39</Code>    
+  </TransactionType>
+  <TransactionType id="failedCashPickup">
+    <Desc>FailedCashPickup</Desc>
+    <Code>391</Code>    
+  </TransactionType>
+  <TransactionType id="payIn">
+    <Desc>CashIn = PayIn</Desc>
+    <Code>40</Code>    
+  </TransactionType>
+  <TransactionType id="payOut">
+    <Desc>PayOut</Desc>
+    <Code>41</Code>    
+  </TransactionType>
+  <TransactionType id="failedPayOut">
+    <Desc>FailedPayOut</Desc>
+    <Code>411</Code>    
+  </TransactionType>
+  <TransactionType id="delivery">
+    <Desc>Delivery</Desc>
+    <Code>42</Code>    
+  </TransactionType>
+  <TransactionType id="houseAcctPayment">
+    <Desc>HouseAcctPayment</Desc>
+    <Code>43</Code>    
+  </TransactionType>
+  <TransactionType id="giftCertSale">
+    <Desc>GiftCertSale</Desc>
+    <Code>44</Code>    
+  </TransactionType>
+  <TransactionType id="advancePayment">
+    <Desc>AdvancePayment</Desc>
+    <Code>46</Code>    
+  </TransactionType>
+  <TransactionType id="advancePaymentRtn">
+    <Desc>AdvancePaymentRtn</Desc>
+    <Code>47</Code>    
+  </TransactionType>
+  <TransactionType id="giftCertRedeem">
+    <Desc>GiftCertRedeem</Desc>
+    <Code>48</Code>    
+  </TransactionType>
+  <TransactionType id="houseAcctPaymentRtn">
+    <Desc>HouseAcctPaymentRtn</Desc>
+    <Code>49</Code>    
+  </TransactionType>
+  <TransactionType id="layaway">
+    <Desc>Layaway</Desc>
+    <Code>50</Code>    
+  </TransactionType>
+  <TransactionType id="applyLayaway">
+    <Desc>ApplyLayaway</Desc>
+    <Code>51</Code>    
+  </TransactionType>
+  <TransactionType id="pickup">
+    <Desc>Pickup</Desc>
+    <Code>52</Code>    
+  </TransactionType>
+  <TransactionType id="giftCertReturn">
+    <Desc>GiftCertReturn</Desc>
+    <Code>53</Code>    
+  </TransactionType>
+  <TransactionType id="redeemForCheck">
+    <Desc>RedeemForCheck</Desc>
+    <Code>55</Code>    
+  </TransactionType>  
+  <TransactionType id="specialOrder">
+    <Desc>SpecialOrder</Desc>
+    <Code>60</Code>    
+  </TransactionType>
+  <TransactionType id="depositForfeit">
+    <Desc>DepositForfeit</Desc>
+    <Code>61</Code>    
+  </TransactionType>
+  <TransactionType id="depTranPayment">
+    <Desc>DepTranPayment</Desc>
+    <Code>62</Code>    
+  </TransactionType>
+  <TransactionType id="cancelLayaway">
+    <Desc>CancelLayaway</Desc>
+    <Code>80</Code>    
+  </TransactionType>
+  <TransactionType id="tax">
+    <Desc>Tax/PST</Desc>
+    <Code>81</Code>    
+  </TransactionType>
+  <TransactionType id="gst">
+    <Desc>GST</Desc>
+    <Code>82</Code>    
+  </TransactionType>
+  <TransactionType id="logoff">
+    <Desc>Logoff</Desc>
+    <Code>86</Code>    
+  </TransactionType>
+  <TransactionType id="currentTransVoid">
+    <Desc>CurrentTransVoid</Desc>
+    <Code>87</Code>    
+  </TransactionType>
+  <TransactionType id="postTranVoid">
+    <Desc>PostTranVoid</Desc>
+    <Code>88</Code>    
+  </TransactionType>
+  <TransactionType id="login">
+    <Desc>Login</Desc>
+    <Code>89</Code>    
+  </TransactionType>
+  <TransactionType id="tillSpotCheck">
+    <Desc>TillSpotCheck</Desc>
+    <Code>97</Code>    
+  </TransactionType>
+  <TransactionType id="endOfDay">
+    <Desc>EndOfDay</Desc>
+    <Code>98</Code>    
+  </TransactionType>
+  <TransactionType id="failedEndOfDay">
+    <Desc>FailedEndOfDay</Desc>
+    <Code>981</Code>    
+  </TransactionType>
+  <TransactionType id="noSale">
+    <Desc>NoSale</Desc>
+    <Code>99</Code>    
+  </TransactionType>  
+  <TransactionType id="currencyPurchase">
+    <Desc>CurrencyPurchase</Desc>
+    <Code>540</Code>    
+  </TransactionType>
+  <TransactionType id="float">
+    <Desc>Float</Desc>
+    <Code>541</Code>    
+  </TransactionType>
+  <TransactionType id="failedFloat">
+    <Desc>FailedFloat</Desc>
+    <Code>5411</Code>    
+  </TransactionType>
+  <TransactionType id="deposit">
+    <Desc>Deposit</Desc>
+    <Code>542</Code>    
+  </TransactionType>
+  <TransactionType id="failedDeposit">
+    <Desc>FailedDeposit</Desc>
+    <Code>5421</Code>    
+  </TransactionType>
+  <TransactionType id="safeSpotCheck">
+    <Desc>SafeSpotCheck</Desc>
+    <Code>543</Code>    
+  </TransactionType>
+  <TransactionType id="suspended">
+    <Desc>Suspended</Desc>
+    <Code>601</Code>    
+  </TransactionType>
+</TransactionTypes>

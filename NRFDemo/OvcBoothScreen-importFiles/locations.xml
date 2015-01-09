@@ -1,0 +1,9 @@
+<Locations>
+  <Location id="OvcBoothScreen">
+    <Type>Store</Type>
+    <Name>OVC Booth Screen</Name>
+    <DisplayName>OVC Booth Screen</DisplayName>
+    <ParentId>xp-screen</ParentId>
+    <IsDeleted>0</IsDeleted>
+  </Location>
+</Locations>
