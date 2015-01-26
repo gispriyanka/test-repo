@@ -4,7 +4,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>100000001</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>20.00</Amount>
 	</ProductPrice>
@@ -13,7 +13,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>100000004</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>50.00</Amount>
 	</ProductPrice>
@@ -22,7 +22,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>100000005</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>50.01</Amount>
 	</ProductPrice>
@@ -31,7 +31,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>100000003</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>65.00</Amount>
 	</ProductPrice>
@@ -40,7 +40,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>100000007</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>65.02</Amount>
 	</ProductPrice>
@@ -49,7 +49,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>1</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>19.99</Amount>
 	</ProductPrice>
@@ -58,7 +58,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>10</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>10.00</Amount>
 	</ProductPrice>
@@ -67,7 +67,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>2</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>5.00</Amount>
 	</ProductPrice>
@@ -76,7 +76,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>2</ProductCode>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>EUR</CurrencyId>
 		<Amount>3.94</Amount>
 	</ProductPrice>
@@ -94,7 +94,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<ProductCode>2</ProductCode>
 		<StartDate f="1">20141017</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>5.50</Amount>
 	</ProductPrice>
@@ -103,7 +103,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>4</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>10.00</Amount>
 	</ProductPrice>
@@ -112,7 +112,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>5</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>1.00</Amount>
 	</ProductPrice>
@@ -121,7 +121,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>6</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>40.00</Amount>
 	</ProductPrice>
@@ -130,7 +130,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>7</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>100.00</Amount>
 	</ProductPrice>
@@ -139,7 +139,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>8</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>200.00</Amount>
 	</ProductPrice>
@@ -148,7 +148,7 @@
 		<RetailerId>defaultRetailer</RetailerId>
 		<SKU>9</SKU>
 		<StartDate f="1">20141007</StartDate>
-		<EndDate f="1">50080607</EndDate>
+		<EndDate f="1">20200607</EndDate>
 		<CurrencyId>USD</CurrencyId>
 		<Amount>7.50</Amount>
 	</ProductPrice>

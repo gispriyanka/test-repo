@@ -1,4 +1,4 @@
-{
+{ 
   "maxConcurrent": 2,
   "maxActiveApptPerUser": 20,
   "reasons": [{ "name": "Consultation",
