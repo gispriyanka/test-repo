@@ -1,7 +1,0 @@
-{ "menuId": "posCheckoutMenuView",
-  "title": "Checkout",
-  "backViewId": "mainMenuView",
-  "backTransition": "slide",
-  "backButtonProcess": { "name": "posMClient/CheckoutBackButton.ovcprc" },
-  "menu": [{ "id": "cashMenuBtn", "label": "RSRC(menus.checkout.cash)", "invokeProcess": "posMClient/Checkout.ovcprc", "inputParams": "{ codeType: 'cash' }" }]
-}

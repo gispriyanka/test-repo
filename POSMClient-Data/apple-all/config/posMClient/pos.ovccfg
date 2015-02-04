@@ -1,8 +1,0 @@
-{
-	"allowZeroPrices": true,
-	
-	"hiddenFunctions": ["refund","itemModifiers","site","loyaltyLookup","wishList"],
-	"disabledButtons": [],
-	
-	"timeoutMinutes": 1000
-}

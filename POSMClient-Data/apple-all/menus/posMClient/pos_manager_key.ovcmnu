@@ -1,6 +1,0 @@
-{ "menuId": "posManagerKeyMenuView",
-  "title": "Manager",
-  "backViewId": "mainMenuView",
-  "backTransition": "slide",
-  "menu": [{ "id": "cashMgmtMenuBtn", "label": "RSRC(menus.managerFunctions.cashManagement)", "class": "ovc-b skin1 w20", "invokeProcess": "generic/OpenMenuView.ovcprc", "inputParams": "{ menuId: 'posMClient/pos_manager_key_cash.ovcmnu' }" }]
-}

@@ -1,6 +1,0 @@
-{ "menuId": "posCheckoutReceiptsMenuView",
-  "title": "Receipts",
-  "closeViewId": "mainMenuView",
-  "closeTransition": "zoomOut",
-  "closeProcess": { "name": "posMClient/receipt/CloseReceiptsMenu.ovcprc" },
-  "menu": [{ "id": "eReceiptMenuBtn", "label": "RSRC(menus.checkout.receipts.email)", "invokeProcess": "posMClient/OpenGetEmailDialog.ovcprc", "inputParams": "{}" }]}
