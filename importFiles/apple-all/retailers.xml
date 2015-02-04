@@ -1,8 +1,0 @@
-<Retailers>
-	<Retailer id="defaultRetailer" locationId="apple-all">
-		<Name>Apple Default</Name>
-		<BaseCommerceServer>http://electronics.showcaseqa.mybasket.com:9001</BaseCommerceServer>
-		<ProductQueryEndpoint>extovc/ovcProductQuery.html</ProductQueryEndpoint>
-		<PingSiteEndpoint>yacceleratorstorefront</PingSiteEndpoint>
-	</Retailer>
-</Retailers>
