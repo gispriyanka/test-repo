@@ -1,9 +1,0 @@
-<Locations>
-  <Location id="OvcBoothDevice">
-    <Type>Store</Type>
-    <Name>OVC Booth Device</Name>
-    <DisplayName>OVC Booth Device</DisplayName>
-    <ParentId>xp-all</ParentId>
-    <IsDeleted>0</IsDeleted>
-  </Location>
-</Locations>
