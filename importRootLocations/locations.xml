@@ -1,7 +1,7 @@
 <Locations>
   <LocationGroup id="posMClient-grp-all">
     <Name>posMClient-group-all</Name>
-    <ParentId>grp-all</ParentId>
+    <ParentId>platform-all</ParentId>
     <IsDeleted>0</IsDeleted>
   </LocationGroup>
   
