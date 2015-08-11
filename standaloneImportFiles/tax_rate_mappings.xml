@@ -24,10 +24,17 @@
 		<EndDate f="1">50009999</EndDate>
 	</TaxRateMapping>
 	<TaxRateMapping>
-		<TaxRateId>IN-7.0</TaxRateId>
-		<GroupId></GroupId>
-		<SKU>100000001</SKU>
+		<TaxRateId>MA-6.25</TaxRateId>
+		<GroupId>201-000-000-000</GroupId>
 		<StartDate f="1">20120222</StartDate>
 		<EndDate f="1">50009999</EndDate>
 	</TaxRateMapping>
+	<TaxRateMapping>
+		<TaxRateId>IN-0.0</TaxRateId>
+		<GroupId></GroupId>
+		<SKU>GC0001</SKU>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
+	
 </TaxRateMappings>

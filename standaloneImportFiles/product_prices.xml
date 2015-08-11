@@ -152,4 +152,22 @@
 		<CurrencyId>USD</CurrencyId>
 		<Amount>7.50</Amount>
 	</ProductPrice>
+	<ProductPrice>
+		<Type>1</Type>
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>1000101</SKU>
+		<StartDate f="1">20141007</StartDate>
+		<EndDate f="1">20200607</EndDate>
+		<CurrencyId>USD</CurrencyId>
+		<Amount>10.00</Amount>
+	</ProductPrice>
+	<ProductPrice>
+		<Type>1</Type>
+		<RetailerId>defaultRetailer</RetailerId>
+		<SKU>1000102</SKU>
+		<StartDate f="1">20141007</StartDate>
+		<EndDate f="1">20200607</EndDate>
+		<CurrencyId>USD</CurrencyId>
+		<Amount>20.00</Amount>
+	</ProductPrice>
 </ProductPrices>

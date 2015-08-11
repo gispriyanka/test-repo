@@ -1,6 +1,6 @@
 <Retailers>
 	<Retailer id="defaultRetailer" locationId="test-all">
-		<Name>OVC Showcase QA Retailer</Name>
+		<Name>Default Retailer</Name>
 		<BaseCommerceServer>http://electronics.showcaseqa.mybasket.com:9001</BaseCommerceServer>
 		<ProductQueryEndpoint>extovc/ovcProductQuery.html</ProductQueryEndpoint>
 		<PingSiteEndpoint>yacceleratorstorefront</PingSiteEndpoint>

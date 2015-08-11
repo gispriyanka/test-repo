@@ -1,17 +1,17 @@
-<MerchandiseGroups locationId="OvcStore">
-  <Group type="1" id="000-000-000-000">
+<MerchandiseGroups locationId="posMClient-grp-all">
+  <Group type="1" id="ROOT">
     <Name>ROOT</Name>
     <ParentId/>
   </Group>
 
   <Group type="1" id="100-000-000-000">
     <Name>Merchandising</Name>
-    <ParentId>000-000-000-000</ParentId>
+    <ParentId>ROOT</ParentId>
   </Group>
 
   <Group type="1" id="300-000-000-000">
     <Name>Merchandising-VAT</Name>
-    <ParentId>000-000-000-000</ParentId>
+    <ParentId>ROOT</ParentId>
   </Group>
   <Group type="1" id="400-000-000-000">
     <Name>Non-Merchandising</Name>
@@ -19,6 +19,14 @@
   </Group>
   <Group type="1" id="200-000-000-000">
     <Name>Non-Merchandising</Name>
-    <ParentId>000-000-000-000</ParentId>
+    <ParentId>ROOT</ParentId>
+  </Group>
+  <Group type="1" id="201-000-000-000">
+    <Name>Non-Merchandising-Fee-Taxable</Name>
+    <ParentId>200-000-000-000</ParentId>
+  </Group>
+  <Group type="1" id="202-000-000-000">
+    <Name>Non-Merchandising-Fee-NonTaxable</Name>
+    <ParentId>200-000-000-000</ParentId>
   </Group>
 </MerchandiseGroups>
