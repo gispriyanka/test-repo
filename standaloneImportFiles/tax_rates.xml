@@ -47,4 +47,37 @@
     <Currency>USD</Currency>
     <IsVAT>1</IsVAT>
   </TaxRate>
+  <TaxRate id="MA-6.25">
+    <Desc>
+      <Lang id='en-us'>Massachusetts Sales Tax Rate, EFF. 4/1/08</Lang>
+    </Desc>
+    <DisplayCode>
+      <Lang id='en-us'>6.25</Lang>
+    </DisplayCode>
+    <StartDate f="1" >20080326</StartDate>
+    <EndDate f="1">50009999</EndDate>
+    <DefaultPercentage>6.25</DefaultPercentage>
+    <PercentageRanges>
+      <Range fromPrice='-1' upToPrice='100000000000'>6.25</Range>
+    </PercentageRanges>
+    <Currency>USD</Currency>
+    <IsVAT>0</IsVAT>
+  </TaxRate>
+  <TaxRate id="IN-0.0">
+    <Desc>
+      <Lang id='en-us'>Non-Taxable Items</Lang>
+    </Desc>
+    <DisplayCode>
+      <Lang id='en-us'>0</Lang>
+    </DisplayCode>
+    <StartDate f="1" >20080326</StartDate>
+    <EndDate f="1">50009999</EndDate>
+    <DefaultPercentage>0</DefaultPercentage>
+    <PercentageRanges>
+      <Range fromPrice='-1' upToPrice='100000000000'>0</Range>
+    </PercentageRanges>
+    <Currency>USD</Currency>
+    <IsVAT>0</IsVAT>
+  </TaxRate>
+  
 </TaxRates>

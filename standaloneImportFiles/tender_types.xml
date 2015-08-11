@@ -106,4 +106,33 @@
     <RefundLimit>0</RefundLimit>
     <Active>1</Active>
   </TenderType>
+  <TenderType id="51">
+      <Desc>StoreCredit</Desc>
+      <FundCode>SC</FundCode>
+      <ChargeLimit>5000</ChargeLimit>
+      <ChangeLimit>1000</ChangeLimit>
+      <RefundLimit>1000</RefundLimit>
+      <Active>1</Active>
+    </TenderType>
+  <TenderType id="32">
+      <Desc>Gift Certificate</Desc>
+      <FundCode>GC</FundCode>
+      <ChargeLimit>5000</ChargeLimit>
+      <ChangeLimit>1000</ChangeLimit>
+      <RefundLimit>1000</RefundLimit>
+      <Active>1</Active>
+	  <propertiesJson>
+	      <readyMadeTenders>10,20,30,40</readyMadeTenders>
+	      <expiryDays>365</expiryDays>
+		   <redeemableLocationGroupId>OvcStore</redeemableLocationGroupId>
+	  </propertiesJson>
+    </TenderType>
+    <TenderType id="70">
+	    <Desc>Special Payment</Desc>
+	    <FundCode>SP</FundCode>
+	    <ChargeLimit>5000</ChargeLimit>
+	    <ChangeLimit>0</ChangeLimit>
+	    <RefundLimit>0</RefundLimit>
+	    <Active>1</Active>
+	</TenderType>
 </TenderTypes>

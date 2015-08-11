@@ -15,7 +15,7 @@
     <Desc>Insufficient funds</Desc>
     <ScopeType>3</ScopeType>
   </ReasonCode>
-  
+
   <ReasonCode type="refund" id="0201">
     <Desc>Did not want</Desc>
     <ScopeType>1</ScopeType>
@@ -44,7 +44,7 @@
     <Desc>Ordered online from alt.source</Desc>
     <ScopeType>1</ScopeType>
   </ReasonCode>
-  
+
   <ReasonCode type="discount" id="1101">
     <Desc>Manager request</Desc>
     <AmountType>2</AmountType>
@@ -55,7 +55,7 @@
     <AmountType>2</AmountType>
     <ScopeType>2</ScopeType>
   </ReasonCode>
-  
+
   <ReasonCode type="discount" id="1201">
     <Desc>Manager request</Desc>
     <AmountType>1</AmountType>
@@ -92,7 +92,7 @@
     <AmountType>2</AmountType>
     <ScopeType>1</ScopeType>
   </ReasonCode>
-  
+
   <ReasonCode type="discount" id="0904">
     <Desc>In-store promo</Desc>
     <AmountType>1</AmountType>
@@ -118,14 +118,14 @@
     <AmountType>1</AmountType>
     <ScopeType>1</ScopeType>
   </ReasonCode>
-  
+
   <ReasonCode type="payIn" id="6202">
-    <Desc>Start of day</Desc>
+    <Desc>Found money</Desc>
   </ReasonCode>
   <ReasonCode type="payIn" id="6206">
-    <Desc>Unused paid out</Desc>
+    <Desc>Vender payment</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="payOut" id="6115">
     <Desc>Store supplies</Desc>
   </ReasonCode>
@@ -159,19 +159,19 @@
   <ReasonCode type="payOut" id="9035">
     <Desc>Video rental</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="float" id="9100">
     <Desc>Replenish till funds</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="currencyPurchase" id="9200">
     <Desc>Replenish safe funds</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="deposit" id="9300">
     <Desc>Place money into bank</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="priceChange" id="1001">
     <Desc>In store price difference</Desc>
   </ReasonCode>
@@ -190,7 +190,7 @@
   <ReasonCode type="priceChange" id="7003">
     <Desc>Match competitor #3</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="postVoid" id="0101P">
     <Desc>Changed mind</Desc>
   </ReasonCode>
@@ -200,18 +200,59 @@
   <ReasonCode type="postVoid" id="0103P">
     <Desc>Insufficient funds</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="endOfDayDiscrepancy" id="9400">
-    <Desc>Cashier error</Desc>
+    <Desc>Cashier Error</Desc>
   </ReasonCode>
   <ReasonCode type="endOfDayDiscrepancy" id="9401">
-    <Desc>Acceptable discrepancy</Desc>
+    <Desc>Acceptable Discrepancy</Desc>
   </ReasonCode>
-  
+
   <ReasonCode type="suspend" id="10100">
     <Desc>Forgot Wallet</Desc>
-  </ReasonCode>    
+  </ReasonCode>
    <ReasonCode type="suspend" id="10101">
     <Desc>Customer forgot to get coupon</Desc>
-  </ReasonCode>    
+  </ReasonCode>
+
+
+    <ReasonCode type="noSale" id="0701">
+        <Desc>Making change</Desc>
+    </ReasonCode>
+    <ReasonCode type="noSale" id="0702">
+        <Desc>Drawer closed accidentally</Desc>
+    </ReasonCode>
+
+	<ReasonCode type="layaway" id="9500">
+        <Desc>Changed mind</Desc>
+         <ScopeType>3</ScopeType>
+    </ReasonCode>
+    <ReasonCode type="layaway" id="9501">
+        <Desc>Permanently out of Stock</Desc>
+         <ScopeType>3</ScopeType>
+    </ReasonCode>
+    <ReasonCode type="specialPayment" id="9601">
+        <Desc>Staff Vehicles</Desc>
+         <ScopeType>2</ScopeType>
+    </ReasonCode>
+    <ReasonCode type="specialPayment" id="9602">
+        <Desc>Charitable Contributions</Desc>
+         <ScopeType>2</ScopeType>
+    </ReasonCode>
+    <ReasonCode type="specialPayment" id="9603">
+        <Desc>Manager Snow Tires</Desc>
+         <ScopeType>2</ScopeType>
+    </ReasonCode>
+	<ReasonCode type="interimDeposit" id="9502">
+	        <Desc>Close the Till</Desc>
+	         <ScopeType>3</ScopeType>
+		</ReasonCode>
+		<ReasonCode type="quickDeposit" id="9503">
+		        <Desc>Mid-Day Deposit</Desc>
+		         <ScopeType>3</ScopeType>
+		    </ReasonCode>
+		    <ReasonCode type="quickDeposit" id="9504">
+		        <Desc>Till Over Limit</Desc>
+		         <ScopeType>3</ScopeType>
+		    </ReasonCode>
 </ReasonCodes>

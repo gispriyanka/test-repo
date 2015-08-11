@@ -6,6 +6,22 @@
     <Desc>RegularSale</Desc>
     <Code>1</Code>    
   </TransactionType>
+  <TransactionType id="layawaySale">
+     <Desc>LayawaySale</Desc>
+     <Code>111</Code>    
+  </TransactionType>
+  <TransactionType id="layawayPayment">
+     <Desc>LayawayPayment</Desc>
+     <Code>112</Code>    
+  </TransactionType>
+  <TransactionType id="layawayReturn">
+     <Desc>LayawayReturn</Desc>
+     <Code>113</Code>    
+  </TransactionType>
+  <TransactionType id="layawayFinalize">
+      <Desc>LayawayFinalize</Desc>
+      <Code>114</Code>    
+    </TransactionType>
   <TransactionType id="houseCharge">
     <Desc>HouseCharge</Desc>
     <Code>2</Code>    
@@ -182,4 +198,52 @@
     <Desc>Suspended</Desc>
     <Code>601</Code>    
   </TransactionType>
+  <TransactionType id="clockIn">
+      <Desc>clockInTransaction</Desc>
+      <Code>701</Code>    
+    </TransactionType>
+    <TransactionType id="clockOut">
+      <Desc>clockOutTransaction</Desc>
+      <Code>702</Code>    
+    </TransactionType>
+    <TransactionType id="clockOutError">
+      <Desc>clockOutErrorTransaction</Desc>
+      <Code>703</Code>    
+    </TransactionType>
+ 	<TransactionType id="floatBankToTill">
+ 	    <Desc>floatBankToTill</Desc>
+ 	    <Code>115</Code>    
+ 	  </TransactionType>
+   	<TransactionType id="depositTillToBank">
+   	    <Desc>depositTillToBank</Desc>
+   	    <Code>116</Code>    
+   	  </TransactionType>
+ 	  <TransactionType id="failedDepositTillToBank">
+ 	    	<Desc>failedDepositTillToBank</Desc>
+ 	    	<Code>117</Code>
+ 	    </TransactionType>
+ 	    <TransactionType id="failedFloatBankToTill">
+ 	    	<Desc>failedFloatBankToTill</Desc>
+ 	    	<Code>118</Code>
+ 	    </TransactionType>
+		<TransactionType id="interimDeposit">
+		  	<Desc>interimDeposit</Desc>
+		  	<Code>119</Code>
+		  </TransactionType>
+		  <TransactionType id="failedInterimDeposit">
+		  	<Desc>failedInterimDeposit</Desc>
+		  	<Code>120</Code>
+		  </TransactionType>
+		  <TransactionType id="forcedInterimDeposit">
+		  	<Desc>forcedInterimDeposit</Desc>
+		  	<Code>121</Code>
+		  </TransactionType>
+		  <TransactionType id="StoreOpen">
+		  	<Desc>StoreOpen</Desc>
+		  	<Code>90</Code>
+		  </TransactionType>
+		  <TransactionType id="StoreClose">
+		  	<Desc>StoreClose</Desc>
+		  	<Code>91</Code>
+		  </TransactionType>
 </TransactionTypes>
