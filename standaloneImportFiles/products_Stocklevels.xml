@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductStockLevels locationId="OvcStore">
+   <ProductStockLevel retailerId="defaultRetailer" sku="100000001" warehouseId="OvcStore">6</ProductStockLevel>
+   <ProductStockLevel retailerId="defaultRetailer" sku="100000002" warehouseId="OvcStore">16</ProductStockLevel>
+</ProductStockLevels>
