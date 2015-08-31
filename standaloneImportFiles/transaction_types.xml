@@ -246,4 +246,8 @@
 		  	<Desc>StoreClose</Desc>
 		  	<Code>91</Code>
 		  </TransactionType>
+		  <TransactionType id="quote">
+		   	<Desc>Quote</Desc>
+		   	<Code>200</Code>
+		   </TransactionType>
 </TransactionTypes>
