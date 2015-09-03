@@ -13,19 +13,19 @@
     <Name>Merchandising-VAT</Name>
     <ParentId>ROOT</ParentId>
   </Group>
-  <Group type="1" id="400-000-000-000">
+  <Group type="2" id="400-000-000-000">
     <Name>Non-Merchandising</Name>
     <ParentId/>
   </Group>
-  <Group type="1" id="200-000-000-000">
+  <Group type="2" id="200-000-000-000">
     <Name>Non-Merchandising</Name>
     <ParentId>ROOT</ParentId>
   </Group>
-  <Group type="1" id="201-000-000-000">
+  <Group type="2" id="201-000-000-000">
     <Name>Non-Merchandising-Fee-Taxable</Name>
     <ParentId>200-000-000-000</ParentId>
   </Group>
-  <Group type="1" id="202-000-000-000">
+  <Group type="2" id="202-000-000-000">
     <Name>Non-Merchandising-Fee-NonTaxable</Name>
     <ParentId>200-000-000-000</ParentId>
   </Group>
