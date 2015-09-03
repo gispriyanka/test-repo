@@ -6,12 +6,6 @@
 		<EndDate f="1">50009999</EndDate>
 	</TaxRateMapping>
 	<TaxRateMapping>
-		<TaxRateId>IN-7.0</TaxRateId>
-		<GroupId>200-000-000-000</GroupId>
-		<StartDate f="1">20120222</StartDate>
-		<EndDate f="1">50009999</EndDate>
-	</TaxRateMapping>
-	<TaxRateMapping>
 		<TaxRateId>IN-7.0-VAT</TaxRateId>
 		<GroupId>300-000-000-000</GroupId>
 		<StartDate f="1">20120222</StartDate>
@@ -24,17 +18,23 @@
 		<EndDate f="1">50009999</EndDate>
 	</TaxRateMapping>
 	<TaxRateMapping>
-		<TaxRateId>MA-6.25</TaxRateId>
-		<GroupId>201-000-000-000</GroupId>
+		<TaxRateId>IN-7.0</TaxRateId>
+		<GroupId></GroupId>
+		<SKU>20-0-50127-5245-89-30-30</SKU>
 		<StartDate f="1">20120222</StartDate>
 		<EndDate f="1">50009999</EndDate>
 	</TaxRateMapping>
 	<TaxRateMapping>
 		<TaxRateId>IN-0.0</TaxRateId>
 		<GroupId></GroupId>
-		<SKU>GC0001</SKU>
+		<SKU>20-0-50127-5245-89-30-32</SKU>
 		<StartDate f="1">20120222</StartDate>
 		<EndDate f="1">50009999</EndDate>
 	</TaxRateMapping>
-	
+	<TaxRateMapping>
+		<TaxRateId>MA-6.25</TaxRateId>
+		<GroupId>201-000-000-000</GroupId>
+		<StartDate f="1">20120222</StartDate>
+		<EndDate f="1">50009999</EndDate>
+	</TaxRateMapping>
 </TaxRateMappings>
